@@ -5,7 +5,10 @@ This app allows the usee to explore various boat. Each boat listing displays the
 
 # ScreenShots of App
 Top page screenshot: <br>
-![Top page screenshot](screenshot/screenshot1.png)
+
+<img src="Screenshot/screenshot1.png">
+
 
 Bottom page screenshot: <br>
-![Top page screenshot](screenshot/screenshot2.png)
+
+<img src="Screenshot/screenshot2.png">
